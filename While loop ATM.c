@@ -1,3 +1,5 @@
+//Emmanuel Murimi
+//CT100/G/30744
 #include <stdio.h>
 float bal = 1000;
 int ammount= 100;
