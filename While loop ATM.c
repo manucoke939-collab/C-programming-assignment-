@@ -1,5 +1,5 @@
 //Emmanuel Murimi
-//CT100/G/30744
+//CT100/G/30744/26
 #include <stdio.h>
 float bal = 1000;
 int ammount= 100;
