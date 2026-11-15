@@ -1,3 +1,5 @@
+//Emmanuel Murimi
+//CT100/G/30744/26
 #include <stdio.h>
 int main()
 {
